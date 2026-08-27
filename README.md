@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mahircce">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello!+I'm+T+H+Mahir+👋;Studying+CCE+in+Chattogram;Exploring+Computer+Science;Tech+%26+Science+Writer;Love+4-a-side+Football!⚽" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello!+I'm+T+H+Mahir+👋;Studying+CCE+in+Chattogram;Learning+Python+%26+ML;Tech+%26+Science+Writer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,9 +11,8 @@
 ### 👨‍💻 About Me & Current Focus
 * 🎓 Undergraduate student studying **Computer and Communication Engineering (CCE)**.
 * 🌐 Building a strong foundation in web development. I am currently comfortable with **HTML & CSS** and exploring broader Computer Science concepts.
-* 🤖 Enthusiastic about the possibilities of **Artificial Intelligence** and regularly experimenting with various AI tools.
+* 🐍 Currently trying to learn **Machine Learning** and programming in **Python**.
 * ✍️ Passionate about writing! I frequently contribute technology and science features to various publications, alongside writing short stories.
-* ⚽ Off the screen, you will find me playing 4-a-side football on the artificial turf with my friends!
 
 ---
 
@@ -26,12 +25,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Currently Exploring:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Computer Science](https://img.shields.io/badge/Computer_Science-00599C?style=for-the-badge&logo=linux&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF9900?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-### 📈 Interactive GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahircce&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
