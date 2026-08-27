@@ -31,16 +31,14 @@
 
 ---
 
-### 📈 Interactive GitHub Stats
+### 📈GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahircce&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%" />
+  
   <img src="https://streak-stats.demolab.com/?user=mahircce&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahircce&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
-</div>
+
 
 ---
 
