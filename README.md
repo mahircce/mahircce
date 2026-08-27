@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mahircce">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello!+I'm+T+H+Mahir+👋;Studying+CCE+in+Chattogram;Learning+Python+%26+ML;Tech+%26+Science+Writer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello!+I'm+T+H+Mahir+👋;Studying+CS;Learning+Python+%26+ML;Tech+%26+Science+Writer" alt="Typing SVG" />
   </a>
 </div>
 
