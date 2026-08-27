@@ -1,38 +1,56 @@
-# MAHIR
+<div align="center">
+  <a href="https://github.com/mahircce">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello!+I'm+T+H+Mahir+👋;Studying+CCE+in+Chattogram;Exploring+Computer+Science;Tech+%26+Science+Writer;Love+4-a-side+Football!⚽" alt="Typing SVG" />
+  </a>
+</div>
 
-# 👋 Hello! I'm Mahir
-
-I'm an aspiring **Web Developer** exploring the world of web technologies and eager to grow my skills. Here, you'll find my journey from beginner to proficient developer as I experiment with various tools and frameworks.
-
----
-
-🛠 **Current Focus**:
-- 🌐 Learning front-end development (HTML, CSS, JavaScript)
-- 🛠 Experimenting with frameworks like React
----
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/thmahirofficial)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/THMAHIROFFICIAL)
+<h3 align="center">Aspiring Web Developer | Building Fundamentals in CS</h3>
 
 ---
 
-### 💻 Tech Stack:
+### 👨‍💻 About Me & Current Focus
+* 🎓 Undergraduate student studying **Computer and Communication Engineering (CCE)**.
+* 🌐 Building a strong foundation in web development. I am currently comfortable with **HTML & CSS** and exploring broader Computer Science concepts.
+* 🤖 Enthusiastic about the possibilities of **Artificial Intelligence** and regularly experimenting with various AI tools.
+* ✍️ Passionate about writing! I frequently contribute technology and science features to various publications, alongside writing short stories.
+* ⚽ Off the screen, you will find me playing 4-a-side football on the artificial turf with my friends!
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+
+### 💻 Tech Stack & Learning Journey
+
+**Comfortable With:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Currently Exploring:**  
+![Computer Science](https://img.shields.io/badge/Computer_Science-00599C?style=for-the-badge&logo=linux&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF9900?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 📈 Interactive GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahircce&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahircce&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahircce&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/thmahirofficial)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/THMAHIROFFICIAL)
 
 ---
 
 ### ✍️ Random Dev Quote
 > "With artificial intelligence we are summoning the demon."  
 > — *Elon Musk*
-
----
-
-Thanks for stopping by! Feel free to connect or explore my projects as I continue learning and building in the world of web development. 🌱
-
