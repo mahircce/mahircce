@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me & Current Focus
-* 🎓 Undergraduate student studying **Computer and Communication Engineering (CCE)**.
+* 🎓 Undergraduate student.
 * 🌐 Building a strong foundation in web development. I am currently comfortable with **HTML & CSS** and exploring broader Computer Science concepts.
 * 🐍 Currently trying to learn **Machine Learning** and programming in **Python**.
 * ✍️ Passionate about writing! I frequently contribute technology and science features to various publications, alongside writing short stories.
