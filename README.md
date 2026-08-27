@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mahircce">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello!+I'm+T+H+Mahir+👋;Studying+CCE+in+Chattogram;Learning+Python+%26+ML;Tech+%26+Science+Writer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello!+I'm+T+H+Mahir+👋;Studying+CCE+in+Chattogram;Learning+Python+%26+ML;Tech+%26+Science+Writer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,15 +31,15 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Interactive GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahircce&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahircce&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=mahircce&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahircce&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahircce&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
 </div>
 
 ---
@@ -52,5 +52,5 @@
 ---
 
 ### ✍️ Random Dev Quote
-> "With artificial intelligence we are summoning the demon."  
-> — *Elon Musk*
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
+> — *Martin Fowler*
