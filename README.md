@@ -4,6 +4,14 @@
   </a>
 </div>
 
+<!-- Profile Stats Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahircce&label=PROFILE+VIEWS&color=5865F2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mahircce?label=FOLLOWERS&style=for-the-badge&color=5865F2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mahircce/mahircce?label=TOTAL%20STARS&style=for-the-badge&color=5865F2" alt="Stars" /> 
+  <img src="https://img.shields.io/github/last-commit/mahircce/mahircce?label=LAST%20COMMIT&style=for-the-badge&color=5865F2" alt="Last Commit" />
+</div>
+
 <h3 align="center">Aspiring Web Developer | Building Fundamentals in CS</h3>
 
 ---
@@ -31,14 +39,21 @@
 
 ---
 
-### 📈GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
-  
   <img src="https://streak-stats.demolab.com/?user=mahircce&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 
+<!-- Snake Animation Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahircce/mahircce/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahircce/mahircce/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mahircce/mahircce/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
